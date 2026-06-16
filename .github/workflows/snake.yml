@@ -16,8 +16,8 @@ jobs:
         with:
           github_user_name: JossLanxs
           outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-light
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=00FF88&color_dots[0]=cccccc&color_dots[1]=aaaaaa&color_dots[2]=888888&color_dots[3]=555555&color_dots[4]=00FF88
+            dist/github-contribution-grid-snake-dark.svg?color_snake=00FF88&color_dots[0]=333333&color_dots[1]=555555&color_dots[2]=777777&color_dots[3]=aaaaaa&color_dots[4]=00FF88
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
