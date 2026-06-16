@@ -6,4 +6,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Desarrollador+Full+Stack+💻;Bienvenido+a+mi+perfil+🚀" alt="Typing SVG" />
 </p>
-<img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JossLanxs/JossLanxs/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JossLanxs/JossLanxs/output/github-contribution-grid-snake.svg">
+  <img alt="snake" src="https://raw.githubusercontent.com/JossLanxs/JossLanxs/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
