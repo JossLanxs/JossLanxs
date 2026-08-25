@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Desarrollador+Full+Stack+💻;Bienvenido+a+mi+perfil+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Ingeniero+de+Sistemas+e+Información💻;Bienvenido+a+mi+perfil+🚀" alt="Typing SVG" />
 </p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JossLanxs/JossLanxs/output/github-contribution-grid-snake.svg">
